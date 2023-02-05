@@ -1,0 +1,19 @@
+.green-theme{
+    background-color: #226422 !important;
+}
+.red-theme{
+    background-color: #b11515 !important; 
+}
+.dark-theme{
+    background-color: black !important;
+}
+.dropdown-CSS{
+    margin: 0px;
+    cursor: pointer;
+}
+.accordian-color{
+    color: #fff !important;
+}
+.accordion-button:not(.collapsed){
+    color: black;
+}
